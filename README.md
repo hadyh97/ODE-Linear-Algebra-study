@@ -12,7 +12,8 @@ It combines mathematical analysis with a Python implementation to illustrate how
 The notebook includes:
 - A derivation of the **Forward Euler method** from the Taylor series,
 - Implementation of the algorithm in Python,
-- Comparison with the **exact analytical solution** $$
+- Comparison with the **exact analytical solution**
+  $$
   y(t) = e^{-\lambda t}
   $$,
 - A **convergence test** confirming first-order global accuracy,
