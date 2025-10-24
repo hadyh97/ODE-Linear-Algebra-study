@@ -2,7 +2,7 @@
 
 This repository documents my independent studyof Gilbert Strang’s textbook
 *Differential Equations and Linear Algebra*. My goal is to develop a **deep,
-applied understanding** of Differential Equations, Numerical Methods and Linear Algebra by applying the theory learned through the textbook with numerical methods in Python
+applied understanding** of Differential Equations, Numerical Methods and Linear Algebra by applying the theory learned through the book with computational methods in Python.
 
 Each notebook connects:
 - theory
@@ -12,5 +12,5 @@ Each notebook connects:
 
 
 
-## Structure
+
   
